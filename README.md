@@ -1,6 +1,6 @@
-- 👋 Oi! Me chamo Giovani 🇧🇷;
+- 👋 Oi! Me chamo Giovani, tenho 19 anos 🇧🇷;
 - 👀 Data Analyst | Python Dev;
-- 🌱 Python | SQL | Java | HTML & CSS | JavaScript;
+- 🌱 Python | SQL | Java | HTML & CSS | JavaScript | Power BI;
 - 📫 Como me contatar: giovainic@gmail.com;
 - ⚡ English | Portuguese;
 
