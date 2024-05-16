@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Giovani;
+- 👋 Hi, I’m Giovani 🇧🇷;
 - 👀 Data Analyst | Python Dev;
 - 🌱 Python | SQL;
 - 📫 How to reach me: giovainic@gmail.com;
