@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Giovani 🇧🇷;
+- 👋 Oi! Me chamo Giovani 🇧🇷;
 - 👀 Data Analyst | Python Dev;
 - 🌱 Python | SQL | Java | HTML & CSS | JavaScript;
-- 📫 How to reach me: giovainic@gmail.com;
-- 😄 Pronouns: He/Him
+- 📫 Como me contatar: giovainic@gmail.com;
 - ⚡ English | Portuguese;
 
 <!---
