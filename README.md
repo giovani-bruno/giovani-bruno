@@ -1,6 +1,6 @@
 - 👋 Oi! Me chamo Giovani, apaixonado por Data Science e sempre buscando aprender mais!
 - 💻 Python | SQL
-- 👀 Machine Learning | Análise de dados | Ciência de Dados| Automação de processos
+- 👀 Machine Learning | Análise de dados | Ciência de Dados | Automação de processos
 - 💡 Scikit-learn | TensorFlow | Pandas | Matplotlib | Seaborn | Tkinter | Selenium | Pyautogui
 - 📊 Power BI | Excel
 - 📫 Como me encontrar: [giovainic@gmail.com](mailto:giovainic@gmail.com)
