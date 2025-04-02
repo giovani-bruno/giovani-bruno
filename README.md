@@ -1,4 +1,3 @@
-- 👋 Oi! Me chamo Giovani, apaixonado por Data Science e sempre buscando aprender mais!<br>
 https://portfolio-giovani.streamlit.app/
 
 <!---
